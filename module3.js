@@ -1,4 +1,4 @@
-// Abhishek_Chandigarh University => Create an array to store all of our NFTs
+// Ashutosh => Create an array to store all of our NFTs
 const NFTs = [];
 
 // Function to mint NFTs
